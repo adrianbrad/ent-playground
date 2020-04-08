@@ -1,0 +1,33 @@
+# github.com/adrianbrad/dbutils v0.0.0-20191203141957-910ab9de94be
+github.com/adrianbrad/dbutils
+# github.com/davecgh/go-spew v1.1.1
+github.com/davecgh/go-spew/spew
+# github.com/facebookincubator/ent v0.1.4
+github.com/facebookincubator/ent
+github.com/facebookincubator/ent/dialect
+github.com/facebookincubator/ent/dialect/sql
+github.com/facebookincubator/ent/dialect/sql/schema
+github.com/facebookincubator/ent/dialect/sql/sqlgraph
+github.com/facebookincubator/ent/schema/edge
+github.com/facebookincubator/ent/schema/field
+github.com/facebookincubator/ent/schema/index
+# github.com/google/uuid v1.1.1
+github.com/google/uuid
+# github.com/hashicorp/errwrap v1.0.0
+github.com/hashicorp/errwrap
+# github.com/hashicorp/go-multierror v1.0.0
+github.com/hashicorp/go-multierror
+# github.com/lib/pq v1.2.0
+github.com/lib/pq
+github.com/lib/pq/oid
+github.com/lib/pq/scram
+# github.com/pmezard/go-difflib v1.0.0
+github.com/pmezard/go-difflib/difflib
+# github.com/stretchr/testify v1.4.0
+github.com/stretchr/testify/assert
+github.com/stretchr/testify/require
+# golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543
+golang.org/x/xerrors
+golang.org/x/xerrors/internal
+# gopkg.in/yaml.v2 v2.2.2
+gopkg.in/yaml.v2
